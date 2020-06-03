@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@upohl 
-upohl
-/
-mechatronicuml
-forked from fraunhofer-iem/mechatronicuml
-0
-1
-2
- Code
- Pull requests 0 Actions
- Projects 0
- Wiki
- Security 0
- Insights
- Settings
-mechatronicuml/EMM/pom.xml
-@upohl upohl Update pom.xml
-b5a8a2d yesterday
-142 lines (137 sloc)  4.25 KB
-  
 <?xml version="1.0" encoding="UTF-8"?>
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
